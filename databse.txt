@@ -1,0 +1,382 @@
+{
+    "name":"syam",
+    "email":"syampk19@gmail.com",
+    "user":{
+        "username":"syam",
+        "password":"syam7898"
+    }
+}
+
+
+{
+    "name":"mohan reddy",
+    "email":"mohanreddy@gmail.com",
+    "user":{
+        "username":"mohan",
+        "password":"mohan123"
+    }
+}
+
+
+ Book Post by Admin id :
+
+localhost:8182/Book/add/2
+
+1)
+{
+    "bookTitle":"Wings of Fire",
+    "author":"APJ abdul kalam",
+    "category":"Auto Biography",
+    "isbn":"APJ123",
+    "bookPrice":1000,
+    "noOfCopies":"12"
+}
+2)
+{
+        "bookTitle": "Beyond the Stars",
+        "author": "Jane Smith",
+        "category": "Science Fiction",
+        "isbn": "2345678901",
+        "bookPrice": 15.99,
+        "noOfCopies": 40
+    }
+
+3)
+{
+        "bookTitle": "Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "category": "Fantasy",
+        "isbn": "0987654321",
+        "bookPrice": 12.99,
+        "noOfCopies": 30
+    }
+
+4)
+
+ {
+        "bookTitle": "The Silent Observer",
+        "author": "John Doe",
+        "category": "Mystery",
+        "isbn": "1234567890",
+        "bookPrice": 19.99,
+        "noOfCopies": 50
+    }
+
+5)
+
+    {
+        "bookTitle": "The Galactic Odyssey",
+        "author": "Alicia Johnson",
+        "category": "Science Fiction",
+        "isbn": "1234567890123",
+        "bookPrice": 24.99,
+        "noOfCopies": 50
+    }
+6)
+    {
+        "bookTitle": "Eternal Cosmos",
+        "author": "David Anderson",
+        "category": "Science Fiction",
+        "isbn": "9876543210987",
+        "bookPrice": 19.99,
+        "noOfCopies": 30
+    }
+7)   
+    {
+        "bookTitle": "Quantum Dreams",
+        "author": "Megan Roberts",
+        "category": "Science Fiction",
+        "isbn": "2345678901234",
+        "bookPrice": 18.99,
+        "noOfCopies": 40
+    }
+
+8)
+
+     {
+        "bookTitle": "Eternal Cosmos",
+        "author": "Jessica Brown",
+        "category": "Science Fiction",
+        "isbn": "3456789012345",
+        "bookPrice": 29.99,
+        "noOfCopies": 40
+    }
+9)
+
+    {
+        "bookTitle": "The Enigmatic Detective",
+        "author": "John Smith",
+        "category": "Mystery",
+        "isbn": "978-1234567890",
+        "bookPrice": 29.99,
+        "noOfCopies": 20
+    }
+
+10)
+    {
+        "bookTitle": "Whispers in the Shadows",
+        "author": "Emma White",
+        "category": "Mystery",
+        "isbn": "978-2345678901",
+        "bookPrice": 24.99,
+        "noOfCopies": 15
+    }
+
+11)
+
+    {
+        "bookTitle": "Cryptic Clues",
+        "author": "James Anderson",
+        "category": "Mystery",
+        "isbn": "978-3456789012",
+        "bookPrice": 34.99,
+        "noOfCopies": 25
+    }
+
+12)
+
+    {
+        "bookTitle": "Midnight Puzzles",
+        "author": "Sophia Davis",
+        "category": "Mystery",
+        "isbn": "978-4567890123",
+        "bookPrice": 27.99,
+        "noOfCopies": 18
+    }
+
+13)
+
+    {
+        "bookTitle": "Secrets Unveiled",
+        "author": "David Miller",
+        "category": "Mystery",
+        "isbn": "978-5678901234",
+        "bookPrice": 31.99,
+        "noOfCopies": 22
+    }
+
+14)
+[
+    {
+        "bookTitle": "The Mystic Realm",
+        "author": "Sarah Williams",
+        "category": "Fantasy",
+        "isbn": "978-1234567890",
+        "bookPrice": 19.99,
+        "noOfCopies": 15
+    }
+
+15)
+    {
+        "bookTitle": "Dragons of Eldoria",
+        "author": "Michael Johnson",
+        "category": "Fantasy",
+        "isbn": "978-2345678901",
+        "bookPrice": 24.99,
+        "noOfCopies": 20
+    }
+16)
+
+    {
+        "bookTitle": "Enchanted Quest",
+        "author": "Emily Davis",
+        "category": "Fantasy",
+        "isbn": "978-3456789012",
+        "bookPrice": 29.99,
+        "noOfCopies": 25
+    }
+
+17)
+    {
+        "bookTitle": "Wizard's Legacy",
+        "author": "Christopher White",
+        "category": "Fantasy",
+        "isbn": "978-4567890123",
+        "bookPrice": 34.99,
+        "noOfCopies": 18
+    }
+18)
+
+    {
+        "bookTitle": "Realm of Wonders",
+        "author": "Jessica Smith",
+        "category": "Fantasy",
+        "isbn": "978-5678901234",
+        "bookPrice": 27.99,
+        "noOfCopies": 22
+    }
+19)
+
+    {
+        "bookTitle": "My Journey",
+        "author": "Michelle Johnson",
+        "category": "Auto Biography",
+        "isbn": "978-1234567890",
+        "bookPrice": 19.99,
+        "noOfCopies": 15
+    }
+
+20)
+
+    {
+        "bookTitle": "Life in Pages",
+        "author": "Andrew Thompson",
+        "category": "Auto Biography",
+        "isbn": "978-2345678901",
+        "bookPrice": 24.99,
+        "noOfCopies": 20
+    }
+
+21)
+
+    {
+        "bookTitle": "Reflections of a Life",
+        "author": "Sophie Williams",
+        "category": "Auto Biography",
+        "isbn": "978-3456789012",
+        "bookPrice": 29.99,
+        "noOfCopies": 18
+    }
+
+22)
+
+    {
+        "bookTitle": "In My Own Words",
+        "author": "Robert Davis",
+        "category": "Auto Biography",
+        "isbn": "978-4567890123",
+        "bookPrice": 22.99,
+        "noOfCopies": 25
+    }
+
+23)
+
+    {
+        "bookTitle": "The Uncharted Path",
+        "author": "Emily Robinson",
+        "category": "Auto Biography",
+        "isbn": "978-5678901234",
+        "bookPrice": 27.99,
+        "noOfCopies": 22
+    }
+
+
+
+
+
+
+Get All Books :
+
+localhost:8182/Book/all
+
+
+Get Book by admin id :
+
+localhost:8182/Book/all/2
+
+
+
+post customer:
+
+localhost:8182/customer/post
+ {
+    "name":"saitarun",
+    "email":"saitarun@gmail.com",
+    "user":{
+        "username":"saitarun",
+        "password":"saitarun"
+    }
+}
+ customer get books by title:
+localhost:8182/customer/getbook/The Uncharted Path
+
+
+customer get books by author:
+
+localhost:8182/customer/getauthor/APJ abdul kalam 
+
+customer get books by book id:
+localhost:8182/customer/get/20
+
+in wampserver use :
+update book set status="available"where id=7;
+
+
+
+
+localhost:8182/admin/add
+
+mysql> select *from admin;
++----+----------------------+-------------+---------+
+| id | email                | name        | user_id |
++----+----------------------+-------------+---------+
+|  2 | syampk19@gmail.com   | syam        |       1 |
+|  4 | mohanreddy@gmail.com | mohan reddy |       3 |
++----+----------------------+-------------+---------+
+
+
+mysql> select *from book;
++----+-------------------+------------+--------------------------+-----------------+----------------+--------------+----------+
+| id | author            | book_price | book_title               | category        | isbn           | no_of_copies | admin_id |
++----+-------------------+------------+--------------------------+-----------------+----------------+--------------+----------+
+|  5 | APJ abdul kalam   |       1000 | Wings of Fire            | Auto Biography  | APJ123         | 12           |        2 |
+|  6 | Jane Smith        |         15 | Beyond the Stars         | Science Fiction | 2345678901     | 40           |        2 |
+|  7 | Lewis Carroll     |         12 | Adventures in Wonderland | Fantasy         | 0987654321     | 30           |        2 |
+|  8 | John Doe          |         19 | The Silent Observer      | Mystery         | 1234567890     | 50           |        2 |
+|  9 | Alicia Johnson    |         24 | The Galactic Odyssey     | Science Fiction | 1234567890123  | 50           |        2 |
+| 10 | David Anderson    |         19 | Eternal Cosmos           | Science Fiction | 9876543210987  | 30           |        2 |
+| 11 | Megan Roberts     |         18 | Quantum Dreams           | Science Fiction | 2345678901234  | 40           |        2 |
+| 12 | Jessica Brown     |         29 | Eternal Cosmos           | Science Fiction | 3456789012345  | 40           |        2 |
+| 13 | John Smith        |         29 | The Enigmatic Detective  | Mystery         | 978-1234567890 | 20           |        2 |
+| 14 | Emma White        |         24 | Whispers in the Shadows  | Mystery         | 978-2345678901 | 15           |        2 |
+| 15 | James Anderson    |         34 | Cryptic Clues            | Mystery         | 978-3456789012 | 25           |        2 |
+| 16 | Sophia Davis      |         27 | Midnight Puzzles         | Mystery         | 978-4567890123 | 18           |        2 |
+| 17 | David Miller      |         31 | Secrets Unveiled         | Mystery         | 978-5678901234 | 22           |        2 |
+| 18 | Sarah Williams    |         19 | The Mystic Realm         | Fantasy         | 978-1234567890 | 15           |        2 |
+| 19 | Michael Johnson   |         24 | Dragons of Eldoria       | Fantasy         | 978-2345678901 | 20           |        2 |
+| 20 | Emily Davis       |         29 | Enchanted Quest          | Fantasy         | 978-3456789012 | 25           |        2 |
+| 21 | Christopher White |         34 | Wizard's Legacy          | Fantasy         | 978-4567890123 | 18           |        2 |
+| 22 | Jessica Smith     |         27 | Realm of Wonders         | Fantasy         | 978-5678901234 | 22           |        2 |
+| 23 | Michelle Johnson  |         19 | My Journey               | Auto Biography  | 978-1234567890 | 15           |        2 |
+| 24 | Andrew Thompson   |         24 | Life in Pages            | Auto Biography  | 978-2345678901 | 20           |        2 |
+| 25 | Sophie Williams   |         29 | Reflections of a Life    | Auto Biography  | 978-3456789012 | 18           |        2 |
+| 26 | Robert Davis      |         22 | In My Own Words          | Auto Biography  | 978-4567890123 | 25           |        2 |
+| 27 | Emily Robinson    |         27 | The Uncharted Path       | Auto Biography  | 978-5678901234 | 22           |        2 |
++----+-------------------+------------+--------------------------+-----------------+----------------+--------------+----------+
+
+
+
+
+localhost:8182/customer/post
+
+
+
+mysql> select *from customer;
++----+------------------------+----------+---------+
+| id | email                  | name     | user_id |
++----+------------------------+----------+---------+
+| 29 | saitarun@gmail.com     | saitarun |      28 |
+| 31 | sravani@gmail.com      | sravani  |      30 |
+| 33 | nani12@gmail.com       | nani     |      32 |
+| 35 | akhil19@gmail.com      | akhil    |      34 |
+| 37 | vinay9@gmail.com       | vinay    |      36 |
+| 39 | sathish@gmail.com      | sathish  |      38 |
+| 41 | daniels45@gmail.com    | daniels  |      40 |
+| 43 | jay1rockstar@gmail.com | jay      |      42 |
++----+------------------------+----------+---------+
+8 rows in set (0.00 sec)
+
+
+
+
+
+localhost:8182/customerBook/29/5
+
+
+mysql> select *from customer_book;
++----+--------+------------+-------------+---------+-------------+
+| id | amount | issue_date | return_date | book_id | customer_id |
++----+--------+------------+-------------+---------+-------------+
+| 58 |    400 | 2023-11-01 | 2023-11-10  |       5 |          29 |
++----+--------+------------+-------------+---------+-------------+
+1 row in set (0.00 sec)
